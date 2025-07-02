@@ -1,1 +1,1 @@
-# vps-rag
+# RAG-contabilitate – MVP
